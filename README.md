@@ -40,7 +40,7 @@ Export the project as a JAR file
 
 ## Authors
 
-* **Jahin Majumdar** - [GitHub](https://github.com/jahin07)
+* **Nikhil Singh** - [GitHub](https://github.com/singh0520)
 
 ## Acknowledgments
 
